@@ -1,8 +1,3 @@
-<!-- Banner (You can replace the image with your own banner later) -->
-<p align="center">
-  <img src="https://i.imgur.com/Oy8P1gB.png" alt="Emmanuel Antwi Banner" width="100%" />
-</p>
-
 <h1 align="center"> Hi, I'm Emmanuel Antwi</h1>
 <h3 align="center">Geospatial Software Engineer | AI • GIS • Remote Sensing</h3>
 
