@@ -69,7 +69,7 @@ A production-grade GIS app built with **Flutter + Django + PostGIS**
 ---
 
 ###  **GeoCloud+ — Advanced Cloud-Free Compositing Framework**
-A more advanced version of GEOMAD integrating:  
+A more advanced cloud free satellite images platform integrating:  
 - Landsat + Sentinel fusion  
 - MAD change detection  
 - Deep learning cloud removal options  
